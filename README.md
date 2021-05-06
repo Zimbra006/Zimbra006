@@ -6,4 +6,4 @@
 - :space_invader: I’m looking to collaborate on games projects
 - 💬 Ask me about lua and LÖVE
 - 📫 How to reach me: guibohme@gmail.com
-- ⚡ Fun fact: Zimbra is actually a band in Brazil
+- ⚡ Fun fact: 'Zimbra' came from the song 'I Zimbra' by Talking Heads
